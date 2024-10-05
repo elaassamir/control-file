@@ -1,4 +1,17 @@
 {
     "script1": "on",
-    "script2": "on"
+    "script2": "off",
+    "script3": "on",
+    "script4": "off",
+    "script5": "on",
+    "script6": "off",
+    "script7": "on",
+    "script8": "off",
+    "script9": "on",
+    "script10": "off",
+    "script11": "on",
+    "script12": "off",
+    "script13": "on",
+    "script14": "off",
+    "script15": "on"
 }
